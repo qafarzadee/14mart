@@ -1,0 +1,5 @@
+/Users/elgungafarzade/Projects/14martt/14martt/obj/Debug/net6.0/14martt.csproj.AssemblyReference.cache
+/Users/elgungafarzade/Projects/14martt/14martt/obj/Debug/net6.0/14martt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elgungafarzade/Projects/14martt/14martt/obj/Debug/net6.0/14martt.AssemblyInfoInputs.cache
+/Users/elgungafarzade/Projects/14martt/14martt/obj/Debug/net6.0/14martt.AssemblyInfo.cs
+/Users/elgungafarzade/Projects/14martt/14martt/obj/Debug/net6.0/14martt.csproj.CoreCompileInputs.cache
